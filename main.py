@@ -8,7 +8,7 @@ CHEAT = True  # helpful when debugging!
 import random
 
 def printRules():
-    print("Welcome...")
+    print("Welcome to Mastermind...")
 
 def setCode(repeat):
     code = ""
